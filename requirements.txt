@@ -47,7 +47,7 @@ diff-match-patch==20181111
 distributed==2.16.0
 Django==3.0.7
 django-cors-headers==3.3.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
