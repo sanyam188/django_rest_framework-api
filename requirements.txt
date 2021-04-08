@@ -45,7 +45,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111
 distributed==2.16.0
-Django==3.0.7
+Django==3.0.14
 django-cors-headers==3.3.0
 djangorestframework==3.11.0
 docutils==0.16
